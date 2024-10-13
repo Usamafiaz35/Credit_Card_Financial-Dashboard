@@ -1,4 +1,4 @@
-# Credit_Card_Financial-Dashboard
+# Credit_Card_Financial-Dashboard Power BI
 Power Bi Dashboard
 
 🔹 Developed an interactive dashboard with transaction and customer data to provide real-time insights.
